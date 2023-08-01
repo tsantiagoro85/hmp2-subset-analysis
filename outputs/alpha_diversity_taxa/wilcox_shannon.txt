@@ -1,0 +1,7 @@
+
+	Wilcoxon signed rank exact test
+
+data:  alpha.DNA$Shannon
+V = 36, p-value = 0.007813
+alternative hypothesis: true location is not equal to 0
+

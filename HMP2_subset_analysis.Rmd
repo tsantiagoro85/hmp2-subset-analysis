@@ -1,0 +1,15 @@
+
+```{r SOURCE CODE, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE}
+# Source R scripts for loading libraries, importing data, data manipulation and individual analyses.
+
+source("code/load.R")
+source("code/import_data.R")
+source("code/data_manipulation.R")
+source("code/alpha_diversity_taxa.R")
+source("code/beta_diversity_taxa.R")
+source("code/taxaplots.R")
+source("code/differential_analysis.R")
+source("code/top_10.R")
+
+```
+

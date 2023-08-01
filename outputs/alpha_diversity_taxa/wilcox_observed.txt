@@ -1,0 +1,7 @@
+
+	Wilcoxon signed rank test with continuity correction
+
+data:  alpha.DNA$Observed
+V = 36, p-value = 0.01415
+alternative hypothesis: true location is not equal to 0
+
